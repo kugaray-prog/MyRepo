@@ -1,0 +1,11 @@
+node_modules/
+.env
+uploads/ocr/*
+uploads/photos/*
+uploads/certificates/*
+!uploads/ocr/.gitkeep
+!uploads/photos/.gitkeep
+!uploads/certificates/.gitkeep
+npm-debug.log
+*.log
+.DS_Store
